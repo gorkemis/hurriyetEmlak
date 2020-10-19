@@ -1,5 +1,4 @@
-HurriyetEmlakTest
-Prerequisites
+Hurriyet Emlak Test Project
 
 Make sure your docker daemon is running (e.g. docker info works without errors).
 
