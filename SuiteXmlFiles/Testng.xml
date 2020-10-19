@@ -6,6 +6,9 @@
     <test name="firefox">
         <classes>
             <class name="tests.Case1Web">
+            <class name="tests.Case2Web">
+            <class name="tests.Case1Mobile">
+            <class name="tests.Case2Mobile">
             </class>
            </classes>
        </test>
